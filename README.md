@@ -12,11 +12,14 @@ Interests in lab automoatization
 🛠️ Skills:
 
 Python (data processing, automation) 
+
 Arduino (control of peristaltic pump systems & sensors)
+
 Organic chemistry & process development (15+ years hands-on experience)
 
 🌱 Currently exploring:
 
 Data-driven optimization in chemical engineering
+
 Sustainable materials and technologies
 
