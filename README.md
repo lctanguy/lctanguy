@@ -5,7 +5,7 @@ Early-stage chemical process development
 
 I work at the intersection of Art & Science
 
-Creating new chemical processes, improving existing ones, and tackling complex problems in the lab.
+Creating new chemical processes, improving existing ones, and tackling chemical problems in the lab.
 
 Interests in lab automoatization
 
