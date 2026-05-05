@@ -1,6 +1,6 @@
 👋 Hi, I'm Loïc
 
-PhD in Functional Materials Chemistry | Chemical Engineer
+PhD in Functional Materials Chemistry | Chemical Engineer  
 Early-stage chemical process development
 
 I work at the intersection of Art & Science  
